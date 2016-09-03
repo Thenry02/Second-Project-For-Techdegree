@@ -121,6 +121,7 @@ footer .copyright {
  .content {
   margin-top: 80px;
   margin: 0 auto;
+  padding-top: 20px;
 }
 
 
@@ -159,8 +160,8 @@ footer {
 
 .card {
   color:  rgba(248,80,50,1);
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 200px;
+  max-height: 600px;
   border: 6px solid #000;
   transition: all .5s;
   box-shadow: 0 0 1em black;
@@ -172,6 +173,7 @@ footer {
 .content {
   margin-top: 50px;
   width:35%;
+  padding-top: 20px;
 }
 
 header .profile-image {
@@ -221,7 +223,7 @@ footer {
 
 .card {
   color:  rgba(248,80,50,1);
-  max-width: 400px;
+  max-width: 300px;
   max-height: 300px;
   border: 6px solid #000;
   transition: all .5s;
